@@ -1,0 +1,6 @@
+selenium
+pandas
+colorlog
+requests
+py3cw
+pyfiglet

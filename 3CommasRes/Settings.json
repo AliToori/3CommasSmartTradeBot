@@ -1,0 +1,18 @@
+{
+    "Settings": {
+        "APIName": "YourAPIKey",
+        "APIKey": "",
+        "APISecret": "",
+        "AccountIDLong": 1231239,
+        "AccountIDShort": 31231123,
+        "OrderType": "market",
+        "Leverage": 15.0,
+        "AmountUSDT": 10,
+        "TakeProfit1": 4.5,
+        "TakeProfit2": 6.3,
+        "TrailingStopLoss": 3.0,
+        "CheckInterval": 15,
+        "BotToken": "342424:34424323audhua",
+        "ChatID": "92384723"
+    }
+}
